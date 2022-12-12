@@ -4,7 +4,7 @@ const Banner = ({
   ...props
 }) => {
 
-  const [bannerOpen, setBannerOpen] = useState(true);
+  const [bannerOpen, setBannerOpen] = useState(false);
 
   return (
     <>
