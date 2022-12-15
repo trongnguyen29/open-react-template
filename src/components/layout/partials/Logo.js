@@ -21,7 +21,7 @@ const Logo = ({
       <h1 className="m-0">
         <Link to="/">
           <Image
-            src={require('./../../../assets/images/HoloUS-logos_transparent.png')}
+            src={require('./../../../assets/images/HoloViewUS-logos_transparent.png')}
             alt="Open"
             width={256}
             height={256} />
