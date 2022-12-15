@@ -69,10 +69,10 @@ const Hero = ({
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://cruip.com/">
+                  <Button tag="a" color="primary" wideMobile href="https://www.microsoft.com/en-us/p/holous/9nbqs5kmgv80?atc=true">
                     Download the app
                     </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://github.com/cruip/open-react-template/">
+                  <Button tag="a" color="dark" wideMobile href="mailto:holoview.app@gmail.com">
                     See a demo
                     </Button>
                 </ButtonGroup>
@@ -81,7 +81,7 @@ const Hero = ({
           </div>
           <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
             <a
-              data-video="https://player.vimeo.com/video/174002812"
+              data-video="https://www.youtube.com/watch?v=v1RkvhcqCPE"
               href="#0"
               aria-controls="video-modal"
               onClick={openModal}
