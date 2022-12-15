@@ -137,10 +137,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                  Tracking Mode
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                  HoloUS recognizes the ultrasound probe’s location using a custom 3-D printed marker, positions the holographic image below the transducer, in its corresponding anatomical position, and tracks the ultrasound probe in real time. 
                     </p>
                 </div>
               </div>
@@ -159,10 +159,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                  Floating Mode 
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                  The holographic ultrasound image is initially positioned based on transducer location but does not track small movements and instead remains in a fixed position so as not to distract the proceduralist during needle advancement. 
                     </p>
                 </div>
               </div>
