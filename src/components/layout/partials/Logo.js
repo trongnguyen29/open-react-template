@@ -23,8 +23,8 @@ const Logo = ({
           <Image
             src={require('./../../../assets/images/HoloUS-logos_transparent.png')}
             alt="Open"
-            width={62}
-            height={62} />
+            width={256}
+            height={256} />
         </Link>
       </h1>
     </div>
