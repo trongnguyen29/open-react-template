@@ -88,7 +88,7 @@ const Hero = ({
             >
               <Image
                 className="has-shadow"
-                src={require('./../../assets/images/video-placeholder1.jpg')}
+                src={require('./../../assets/images/video-placeholder1.jpeg')}
                 alt="Hero"
                 width={896}
                 height={504} />
