@@ -73,7 +73,7 @@ const Hero = ({
                     Download the app
                     </Button>
                   <Button tag="a" color="dark" wideMobile href="mailto:holoview.app@gmail.com">
-                    See a demo
+                    Contact us
                     </Button>
                 </ButtonGroup>
               </div>
