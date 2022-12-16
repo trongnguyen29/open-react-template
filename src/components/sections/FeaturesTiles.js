@@ -45,7 +45,7 @@ const FeaturesTiles = ({
 
   const sectionHeader = {
     title: 'A novel augmented reality ultrasound application',
-    paragraph: 'HoloUS was developed for the Microsoft HoloLens 2 to project real time ultrasound images directly into the user’s field of view'
+    paragraph: 'HoloViewUS was developed for the Microsoft HoloLens 2 to project real time ultrasound images directly into the user’s field of view'
   };
 
   return (
@@ -96,7 +96,7 @@ const FeaturesTiles = ({
                     Wide Compatibility
                     </h4>
                   <p className="m-0 text-sm">
-                    The HoloUS app is compatible with any ultrasound machine and probes. The app is also compatible with most augmented reality glasses. 
+                    The HoloViewUS app is compatible with any ultrasound machine and probes. The app is also compatible with most augmented reality glasses. 
                     </p>
                 </div>
               </div>
@@ -118,7 +118,7 @@ const FeaturesTiles = ({
                     Minimal Footprint
                     </h4>
                   <p className="m-0 text-sm">
-                    The HoloUS box is designed to be small and can be fit into any clinical workflow. No internet connection needed. 
+                    The HoloViewUS box is designed to be small and can be fit into any clinical workflow. No internet connection needed. 
                     </p>
                 </div>
               </div>
@@ -140,7 +140,7 @@ const FeaturesTiles = ({
                   Tracking Mode
                     </h4>
                   <p className="m-0 text-sm">
-                  HoloUS recognizes the ultrasound probe’s location using a custom 3-D printed marker, positions the holographic image below the transducer, in its corresponding anatomical position, and tracks the ultrasound probe in real time. 
+                  HoloViewUS recognizes the ultrasound probe’s location using a custom 3-D printed marker, positions the holographic image below the transducer, in its corresponding anatomical position, and tracks the ultrasound probe in real time. 
                     </p>
                 </div>
               </div>

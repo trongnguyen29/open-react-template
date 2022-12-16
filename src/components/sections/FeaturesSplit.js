@@ -94,7 +94,7 @@ const FeaturesSplit = ({
                   Faster procedure time
                   </h3>
                 <p className="m-0">
-                  HoloUS app improves procedure time by 30% over the traditional US machine.
+                  HoloViewUS app improves procedure time by 30% over the traditional US machine.
                   </p>
               </div>
               <div className={
@@ -114,7 +114,6 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
                   </div>
                 <h3 className="mt-0 mb-12">
                   No head turning
