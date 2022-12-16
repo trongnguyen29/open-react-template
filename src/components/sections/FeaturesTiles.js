@@ -96,7 +96,7 @@ const FeaturesTiles = ({
                     Wide Compatibility
                     </h4>
                   <p className="m-0 text-sm">
-                    The HoloUS app is compatible with any ultrasound machine and probes. 
+                    The HoloUS app is compatible with any ultrasound machine and probes. The app is also compatible with most augmented reality glasses. 
                     </p>
                 </div>
               </div>
@@ -118,7 +118,7 @@ const FeaturesTiles = ({
                     Minimal Footprint
                     </h4>
                   <p className="m-0 text-sm">
-                    Can be fit into any clinical workflow. 
+                    The HoloUS box is designed to be small and can be fit into any clinical workflow. No internet connection needed. 
                     </p>
                 </div>
               </div>
