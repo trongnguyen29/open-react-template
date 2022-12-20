@@ -50,8 +50,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Improve patient outcomes and clinical workflow',
-    paragraph: 'Improve hand-eye coordination, no head turning, improve focus on the patient '
+    title: 'Our HoloViewUS box automatically connects to the HoloLens and your ultrasound device',
+    paragraph: 'Works out of the box. No need for further configuration. '
   };
 
   return (
@@ -67,10 +67,10 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <h3 className="mt-0 mb-12">
-                  Improved ergonomics
+                We will ship the box to you.
                   </h3>
                 <p className="m-0">
-                  Voice commands helps in sterile environment 
+                   For a low price of $999, HoloViewUS box is all you need to run the HoloUS application. 
                   </p>
               </div>
               <div className={
