@@ -50,7 +50,7 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Our HoloViewUS box automatically connects to the HoloLens and your ultrasound device',
+    title: 'Our HoloUS box automatically connects to the HoloLens and your ultrasound device',
     paragraph: 'Works out of the box. No need for further configuration. '
   };
 
@@ -70,7 +70,7 @@ const FeaturesSplit = ({
                 We will ship the box to you.
                   </h3>
                 <p className="m-0">
-                   For a low price of $999, HoloViewUS box is all you need to run the HoloUS application. 
+                   For a low price of $999, HoloUS box is all you need to run the HoloUS application. 
                   </p>
               </div>
               <div className={
@@ -94,7 +94,7 @@ const FeaturesSplit = ({
                   Faster procedure time
                   </h3>
                 <p className="m-0">
-                  HoloViewUS app improves procedure time by 30% over the traditional US machine.
+                  HoloUS app improves procedure time by 30% over the traditional US machine.
                   </p>
               </div>
               <div className={

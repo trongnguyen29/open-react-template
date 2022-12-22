@@ -71,7 +71,7 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Touchless features
+                    Touchless Features
                     </h4>
                   <p className="m-0 text-sm">
                   Voice commands are supported  to move and scale the ultrasound image, as well as adjust the brightness and contrast, all in real time. 
@@ -96,7 +96,7 @@ const FeaturesTiles = ({
                     Wide Compatibility
                     </h4>
                   <p className="m-0 text-sm">
-                    The HoloViewUS app is compatible with any ultrasound machine and probes. The app is also compatible with most augmented reality glasses. 
+                    The HoloUS app is compatible with any ultrasound machine and probes. The app is also compatible with most augmented reality glasses. 
                     </p>
                 </div>
               </div>
@@ -118,7 +118,7 @@ const FeaturesTiles = ({
                     Minimal Footprint
                     </h4>
                   <p className="m-0 text-sm">
-                    The HoloViewUS box is designed to be small and can be fit into any clinical workflow. No internet connection needed. 
+                    The HoloUS computing box is designed to be small and can be fit into any clinical workflow. No internet connection needed. 
                     </p>
                 </div>
               </div>
@@ -137,10 +137,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                  Tracking Mode
+                  Gesture Mode
                     </h4>
                   <p className="m-0 text-sm">
-                  HoloViewUS recognizes the ultrasound probe’s location using a custom 3-D printed marker, positions the holographic image below the transducer, in its corresponding anatomical position, and tracks the ultrasound probe in real time. 
+                  HoloUS recognizes the ultrasound probe’s location using a custom 3-D printed marker, positions the holographic image below the transducer, in its corresponding anatomical position, and tracks the ultrasound probe in real time. 
                     </p>
                 </div>
               </div>
