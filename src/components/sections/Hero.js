@@ -65,7 +65,7 @@ const Hero = ({
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-              HoloViewUS displays live, holographic ultrasound images directly onto the patient using wearable, see-through augmented reality (AR) smart glasses
+              HoloUS displays live, holographic ultrasound images in the field of view of the proceduralist using see-through augmented reality smart glasses
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>

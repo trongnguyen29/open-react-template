@@ -45,7 +45,7 @@ const FeaturesTiles = ({
 
   const sectionHeader = {
     title: 'A novel augmented reality ultrasound application',
-    paragraph: 'HoloViewUS was developed for the Microsoft HoloLens 2 to project real time ultrasound images directly into the user’s field of view'
+    paragraph: 'HoloUS was developed for the Microsoft HoloLens 2 to project real time ultrasound images directly into the user’s field of view'
   };
 
   return (
