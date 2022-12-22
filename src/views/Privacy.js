@@ -2,7 +2,7 @@ import React from 'react'
 
 const Privacy = () => {
   return (
-    <div>
+    <div className="mt-10 ml-12 mr-12">
         <p>PRIVACY NOTICE</p>
     <p>Last updated February 17, 2020</p>
     
