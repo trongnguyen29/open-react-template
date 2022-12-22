@@ -181,7 +181,7 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Real Time rendering
+                    Real Time Rendering
                     </h4>
                   <p className="m-0 text-sm">
                     High rendering frame rate. Minimal latency from the US machine to the HoloLens glasses. Lossless compression for image transfer. 

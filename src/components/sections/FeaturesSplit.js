@@ -50,7 +50,7 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Our HoloUS box automatically connects to the HoloLens and your ultrasound device',
+    title: 'HoloUS box automatically connects to the HoloLens and the ultrasound device',
     paragraph: 'Works out of the box. No need for further configuration. '
   };
 
@@ -128,7 +128,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-03.png')}
+                  src={require('./../../assets/images/HWd9PhvU.jpeg')}
                   alt="Features split 03"
                   width={528}
                   height={396} />
