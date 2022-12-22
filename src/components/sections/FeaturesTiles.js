@@ -96,7 +96,7 @@ const FeaturesTiles = ({
                     Wide Compatibility
                     </h4>
                   <p className="m-0 text-sm">
-                    The HoloUS app is compatible with any ultrasound machine and probes. The app is also compatible with most augmented reality glasses. 
+                    The HoloUS app is compatible with any ultrasound machine and any transducer. The app is also compatible with any augmented reality glasses supporting Unity.
                     </p>
                 </div>
               </div>
@@ -118,7 +118,7 @@ const FeaturesTiles = ({
                     Minimal Footprint
                     </h4>
                   <p className="m-0 text-sm">
-                    The HoloUS computing box is designed to be small and can be fit into any clinical workflow. No internet connection needed. 
+                    The HoloUS computing box is designed to be small and can be attached on an ultrasound tower. No internet connection required. 
                     </p>
                 </div>
               </div>
@@ -140,7 +140,7 @@ const FeaturesTiles = ({
                   Gesture Mode
                     </h4>
                   <p className="m-0 text-sm">
-                  HoloUS recognizes the ultrasound probe’s location using a custom 3-D printed marker, positions the holographic image below the transducer, in its corresponding anatomical position, and tracks the ultrasound probe in real time. 
+                  The ultrasound image tracks and follows the proceduralist's hand in real time. Gesture mode allows fast positioning of the ultrasound image. 
                     </p>
                 </div>
               </div>
@@ -162,7 +162,7 @@ const FeaturesTiles = ({
                   Floating Mode 
                     </h4>
                   <p className="m-0 text-sm">
-                  The holographic ultrasound image is initially positioned based on transducer location but does not track small movements and instead remains in a fixed position so as not to distract the proceduralist during needle advancement. 
+                  The holographic ultrasound image is initially positioned based on the gesture mode but does not track small movements and instead remains in a fixed position so as not to distract the proceduralist during needle advancement. 
                     </p>
                 </div>
               </div>
