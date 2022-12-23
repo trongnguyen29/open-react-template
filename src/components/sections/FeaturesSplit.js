@@ -70,7 +70,7 @@ const FeaturesSplit = ({
                 We will ship the box to you.
                   </h3>
                 <p className="m-0">
-                   For a low price of $999, HoloUS box is all you need to run the HoloUS application. 
+                   For a low price of $999, HoloUS box is all you need to run the HoloUS application. 30 days free trial. 
                   </p>
               </div>
               <div className={
