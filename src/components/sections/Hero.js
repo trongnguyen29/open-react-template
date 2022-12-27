@@ -69,7 +69,7 @@ const Hero = ({
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://www.microsoft.com/en-us/p/holous/9nbqs5kmgv80?atc=true">
+                  <Button tag="a" color="primary" wideMobile href="https://www.microsoft.com/en-us/p/holoviewus/9nhlk5n3m32p?rtc=1&activetab=pivot:overviewtab">
                     Download the app
                     </Button>
                   <Button tag="a" color="dark" wideMobile href="mailto:holoview.app@gmail.com">
