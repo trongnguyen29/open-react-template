@@ -67,7 +67,7 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <h3 className="mt-0 mb-12">
-                We will ship the box to you.
+                We will ship the box to you. An IRB template is included to help you get started.
                   </h3>
                 <p className="m-0">
                    For a low price of $999, HoloUS box is all you need to run the HoloUS application. 30 days free trial. 
