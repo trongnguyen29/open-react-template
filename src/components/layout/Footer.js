@@ -43,7 +43,9 @@ const Footer = ({
             <Logo />
             <FooterSocial />
           </div>
+          <div><sup>*</sup>Ultrasound devices and HoloLens 2.0 are not included.</div>
         </div>
+        
       </div>
     </footer>
   );
