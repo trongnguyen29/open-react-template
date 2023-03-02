@@ -96,7 +96,7 @@ const FeaturesTiles = ({
                     Wide Compatibility
                     </h4>
                   <p className="m-0 text-sm">
-                    The HoloUS app is compatible with any ultrasound machine and any transducer. The app is also compatible with any augmented reality glasses supporting Unity.
+                    The HoloUS app is compatible with any ultrasound machine and any transducer. The app is also compatible with any AR glasses supporting Unity.
                     </p>
                 </div>
               </div>
@@ -118,7 +118,7 @@ const FeaturesTiles = ({
                     Minimal Footprint
                     </h4>
                   <p className="m-0 text-sm">
-                    The HoloUS computing box is designed to be small and can be attached on an ultrasound tower. No internet connection required. 
+                  The HoloUS box is small enough to fit inside a shelf of the ultrasound tower. No internet connection required. 
                     </p>
                 </div>
               </div>
@@ -184,7 +184,7 @@ const FeaturesTiles = ({
                     Real Time Rendering
                     </h4>
                   <p className="m-0 text-sm">
-                    High rendering frame rate. Minimal latency from the US machine to the HoloLens glasses. Lossless compression for image transfer. 
+                    High rendering frame rate. Minimal latency from the US machine to the AR glasses. Lossless compression for image transfer. 
                     </p>
                 </div>
               </div>

@@ -70,7 +70,7 @@ const FeaturesSplit = ({
                 We will ship the box to you. An IRB template is included to help you get started.
                   </h3>
                 <p className="m-0">
-                   For a low price of $999, HoloUS box is all you need to run the HoloUS application. 30 days free trial. 
+                   For a low price of $999, HoloUS box is all you need to run the HoloUS application. 
                   </p>
               </div>
               <div className={
@@ -94,7 +94,7 @@ const FeaturesSplit = ({
                   Faster procedure time
                   </h3>
                 <p className="m-0">
-                  HoloUS app improves procedure time by 30% over the traditional US machine.
+                Using HoloUS speeds procedures by up to 30% compared with traditional ultrasound guidance.
                   </p>
               </div>
               <div className={
