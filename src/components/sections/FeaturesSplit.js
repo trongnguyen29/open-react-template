@@ -80,7 +80,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/gesc-087_gesc_087_01_800x800.jpg')}
+                  src={require('./../../assets/images/gesc-087_gesc_087_01_800x800_new.png')}
                   alt="Features split 01"
                   width={528}
                   height={396} />
